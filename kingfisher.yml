@@ -14,4 +14,5 @@ dependencies:
   - nose # For testing only
   - bird_tool_utils_python
   - awscli
+  - pip==20.2
   - sra-tools
