@@ -1,4 +1,4 @@
-MODIFICATION: compatiable with Google Colaboratory
+MODIFICATION: added compatibility with Google Colaboratory
 
 ORIGINAL DESCRIPTION:
 
