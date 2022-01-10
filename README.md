@@ -1,3 +1,7 @@
+MODIFICATION: compatiable with Google Colaboratory
+
+ORIGINAL DESCRIPTION:
+
 <img src="images/kingfisher_logo.png" alt="Kingfisher logo" width="600"/>
 
 - [Kingfisher](#kingfisher)
