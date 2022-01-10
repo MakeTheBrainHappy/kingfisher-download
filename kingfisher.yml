@@ -15,4 +15,4 @@ dependencies:
   - bird_tool_utils_python
   - awscli
   - pip==20.2
-  - sra-tools
+  - sra-tools==2.8.0
