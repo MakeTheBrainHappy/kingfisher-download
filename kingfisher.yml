@@ -7,7 +7,6 @@ dependencies:
   - pigz
   - extern
   - curl
-  - sra-tools
   - pandas
   - requests
   - aria2>=1.36.0
