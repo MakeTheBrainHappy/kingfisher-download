@@ -489,8 +489,8 @@ def extract(**kwargs):
 
     else:
         if not skip_download_and_extraction:
-            logging.info("Extracting .sra file with fasterq-dump ..")
-            extern.run("fasterq-dump --threads {} {}".format(threads, os.path.abspath(sra_file)))
+            logging.info("Extracting .sra file with fastq-dump ..")
+            extern.run("fastq-dump {}".format(os.path.abspath(sra_file)))
 
             if 'fastq' not in output_format_possibilities:
                 for fq in ['x_1.fastq','x_2.fastq','x.fastq']:
